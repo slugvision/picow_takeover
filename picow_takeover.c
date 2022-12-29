@@ -29,7 +29,7 @@
 #define LED_GPIO 0
 #define HTTP_RESPONSE_REDIRECT "HTTP/1.1 302 Redirect\nLocation: http://%s" LED_TEST "\n\n"
 
-#define HTML_SOURCE "<html><head><title>Pico GPIO Controller</title></head><body><h1>Pico GPIO Controller</h1> \
+#define HTML_SOURCE "<html><head><title>Pico GPIOLE Controller</title></head><body><h1>Pico GPIO Controller</h1> \
 		<h2>GPIO Outputs</h2><p>%s</p><p>%s</p>\
 		<h2>GPIO Inputs</h2><p>%s</p>\
 		<h2>Analogue Inputs</h2><p>%s</p></body><html>"
